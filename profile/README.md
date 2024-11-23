@@ -1,12 +1,14 @@
-## Hi there 👋
+<div align="center">
+    <img src="./logo.png" width="81" height="81">
+</div>
+<center><h1>Apopa Terminal Emulator - A terminal emulator for Windows / macOS / Linux</h1></center>
 
-<!--
+> [!Info]
+>
+> This repo is introduction for ApopaTE.
+> Download it please go 'MainProgram' repo.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<center>
+<img src="https://img.shields.io/badge/LICENSE-MIT-green">
+<img src="https://img.shields.io/badge/Coding-Python-blue">
+</center>
